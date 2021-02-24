@@ -1,0 +1,3 @@
+[submodule "PaddleSlim"]
+	path = PaddleSlim
+	url = https://github.com/PaddlePaddle/PaddleSlim.git
